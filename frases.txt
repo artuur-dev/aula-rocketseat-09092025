@@ -2,4 +2,3 @@
 
 "frase 2"
 
-"frase  localizada"
